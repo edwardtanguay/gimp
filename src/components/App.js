@@ -3,7 +3,10 @@ import '../css/App.css';
 
 function App() {
 	return (
-		<div>GIMP app</div>
+		<div>
+			<div>GIMP app</div>
+			<img src="images/masks1.png" alt="masks1" />
+		</div>
 	);
 }
 
