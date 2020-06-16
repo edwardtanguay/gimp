@@ -34,6 +34,16 @@ function App() {
 					<img src="images/foreground2.jpg" alt="img" />
 				</div>
 			</div>
+			<div className="item">
+				<h1>Facial feature size-alterations with grid-transform </h1>
+				<div className="info">
+					CTRL-G (Cage Transformation), mark points, more points where you want move features and where you want to keep them stable, drag points, ENTER to finish
+				</div>
+				<div className="imagesArea">
+					<img src="images/cageTransform1.jpg" alt="img" />
+					<img src="images/cageTransform2.jpg" alt="img" />
+				</div>
+			</div>
 		</div>
 	);
 }
